@@ -34,8 +34,11 @@ define('JWT_AUTH_CORS_ENABLE', true);
 
 macをご利用の方はターミナル、windowsの方はコマンドプロンプトというアプリを開き、
 まずcurlのインストールを行います。インストールの方法は以下を参照してください。
+
 [macの場合](https://qiita.com/kaizen_nagoya/items/f13df3e2c9fe6c3bf6fc)
+
 [windowsの場合](https://qiita.com/sugasaki/items/ba9737d13db33d2cd71f)
+
 そして、利用するwordpressのURLを取得してください。
 例えば管理ページのURLが
 
